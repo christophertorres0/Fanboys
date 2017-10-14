@@ -2,6 +2,8 @@
 div{
     float:left;
     margin-right:5px;
+    align:"middle";
+        
 }
 
 div > img{
