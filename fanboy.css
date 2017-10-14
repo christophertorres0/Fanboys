@@ -1,28 +1,4 @@
-/* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
-.container {
-   margin-top:5px;
-   margin-left:5px;
-  }
-
-  .container ul {
-   color: #E59934;
-  }
-
-  .container ul li {
-   margin:5px;
-   padding:5px;
-   width: 100px;
-   height:70px;
-   float: left; 
-   border: 1px solid lightgray;
-   list-style:none;
-   
-  }
-
-  .container ul li:hover {
-   border: 1px solid orange;
-  }
 
 
-@media screen and (min-width:680px)
+
 
