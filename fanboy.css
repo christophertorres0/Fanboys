@@ -1,5 +1,17 @@
 /* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
+div{
+    float:left;
+    margin-right:5px;
+}
 
+div > img{
+   height:200px;
+    width:200px;
+}
+
+p{
+    text-align:center;
+}
 
 
 @media screen and (min-width:680px)
