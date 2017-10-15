@@ -1,11 +1,9 @@
-/* https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
+https://paddle8.com/work/ellsworth-kelly/78782-color-squares-4/ */
 
 body {
 	width: 100vw;
 	height: 100vh;
 	margin: 0;
-	background-image:url(http://www.visualnews.com/wp-content/uploads/2013/12/Matthias-Brown-Traceloops-4.gif);
-	
 }
 
 .flex-container {
@@ -43,10 +41,5 @@ body {
 }
 
 .opaque {
-	background-image:url(giphy (2).gif);
-	background-size: 230px 250px;
+	opacity: 0.5;
 }
-
-@media screen and (min-width:680px)
-	
-	
